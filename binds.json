@@ -1,0 +1,409 @@
+{
+	"keys": [
+		{
+			"bind": "forwards",
+			"category": "movement",
+			"importance": "major"
+		},
+		{
+			"bind": "backwards",
+			"category": "movement",
+			"importance": "major"
+		},
+		{
+			"bind": "left",
+			"category": "movement",
+			"importance": "major"
+		},
+		{
+			"bind": "right",
+			"category": "movement",
+			"importance": "major"
+		},
+		{
+			"bind": "sprint",
+			"category": "movement",
+			"importance": "major"
+		},
+		{
+			"bind": "crouch",
+			"category": "movement",
+			"importance": "major"
+		},
+		{
+			"bind": "jump",
+			"category": "movement",
+			"importance": "major"
+		},
+		{
+			"bind": "long-jump",
+			"category": "movement",
+			"importance": "rare"
+		},
+		{
+			"bind": "walk",
+			"category": "movement",
+			"importance": "rare"
+		},
+		{
+			"bind": "prone",
+			"category": "movement",
+			"importance": "rare"
+		},
+		{
+			"bind": "lean left",
+			"category": "movement",
+			"importance": "major"
+		},
+		{
+			"bind": "lean right",
+			"category": "movement",
+			"importance": "major"
+		},
+		{
+			"bind": "eject",
+			"category": "movement",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "primary",
+			"category": "combat",
+			"importance": "major"
+		},
+		{
+			"bind": "secondary",
+			"category": "combat",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "melee",
+			"category": "combat",
+			"importance": "rare"
+		},
+		{
+			"bind": "attack",
+			"category": "combat",
+			"importance": "major"
+		},
+		{
+			"bind": "block",
+			"category": "combat",
+			"importance": "major"
+		},
+		{
+			"bind": "shoot",
+			"category": "combat",
+			"importance": "major"
+		},
+		{
+			"bind": "ads",
+			"category": "combat",
+			"importance": "major"
+		},
+		{
+			"bind": "reload",
+			"category": "combat",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "shooting mode",
+			"category": "combat",
+			"importance": "specific"
+		},
+		{
+			"bind": "grenade",
+			"category": "combat",
+			"importance": "rare"
+		},
+		{
+			"bind": "ability 1",
+			"category": "combat",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "ability 2",
+			"category": "combat",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "ability 3",
+			"category": "combat",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "ability 4",
+			"category": "combat",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "ultimate",
+			"category": "combat",
+			"importance": "rare"
+		},
+		{
+			"bind": "item 1",
+			"category": "combat",
+			"importance": "rare"
+		},
+		{
+			"bind": "item 2",
+			"category": "combat",
+			"importance": "rare"
+		},
+		{
+			"bind": "item 3",
+			"category": "combat",
+			"importance": "specific"
+		},
+		{
+			"bind": "item 4",
+			"category": "combat",
+			"importance": "specific"
+		},
+		{
+			"bind": "item 5",
+			"category": "combat",
+			"importance": "specific"
+		},
+		{
+			"bind": "global chat",
+			"category": "communication",
+			"importance": "rare"
+		},
+		{
+			"bind": "team chat",
+			"category": "communication",
+			"importance": "rare"
+		},
+		{
+			"bind": "quick chat",
+			"category": "communication",
+			"importance": "rare"
+		},
+		{
+			"bind": "communication 1",
+			"category": "communication",
+			"importance": "specific"
+		},
+		{
+			"bind": "communication 2",
+			"category": "communication",
+			"importance": "specific"
+		},
+		{
+			"bind": "communication 3",
+			"category": "communication",
+			"importance": "specific"
+		},
+		{
+			"bind": "mute",
+			"category": "communication",
+			"importance": "specific"
+		},
+		{
+			"bind": "deafen",
+			"category": "communication",
+			"importance": "specific"
+		},
+		{
+			"bind": "use",
+			"category": "action",
+			"importance": "major"
+		},
+		{
+			"bind": "deploy",
+			"category": "action",
+			"importance": "major"
+		},
+		{
+			"bind": "heal",
+			"category": "action",
+			"importance": "rare"
+		},
+		{
+			"bind": "map",
+			"category": "action",
+			"importance": "specific"
+		},
+		{
+			"bind": "ping",
+			"category": "action",
+			"importance": "rare"
+		},
+		{
+			"bind": "kill",
+			"category": "action",
+			"importance": "specific"
+		},
+		{
+			"bind": "inspect",
+			"category": "action",
+			"importance": "specific"
+		},
+		{
+			"bind": "swap item",
+			"category": "action",
+			"importance": "specific"
+		},
+		{
+			"bind": "drop",
+			"category": "action",
+			"importance": "specific"
+		},
+		{
+			"bind": "pick",
+			"category": "action",
+			"importance": "specific"
+		},
+		{
+			"bind": "inventory",
+			"category": "menu",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "quick-menu",
+			"category": "menu",
+			"importance": "rare"
+		},
+		{
+			"bind": "vote-menu",
+			"category": "menu",
+			"importance": "specific"
+		},
+		{
+			"bind": "vote yes",
+			"category": "menu",
+			"importance": "rare"
+		},
+		{
+			"bind": "vote no",
+			"category": "menu",
+			"importance": "rare"
+		},
+		{
+			"bind": "select 1",
+			"category": "menu",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "select 2",
+			"category": "menu",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "select 3",
+			"category": "menu",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "select 4",
+			"category": "menu",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "select 5",
+			"category": "menu",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "select 6",
+			"category": "menu",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "select 7",
+			"category": "menu",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "select 8",
+			"category": "menu",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "select 9",
+			"category": "menu",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "select 10",
+			"category": "menu",
+			"importance": "semi-major"
+		},
+		{
+			"bind": "scoreboard",
+			"category": "menu",
+			"importance": "rare"
+		},
+		{
+			"bind": "save toolbar",
+			"category": "menu",
+			"importance": "specific"
+		},
+		{
+			"bind": "load toolbar",
+			"category": "menu",
+			"importance": "specific"
+		},
+		{
+			"bind": "character 1",
+			"category": "menu",
+			"importance": "specific"
+		},
+		{
+			"bind": "character 2",
+			"category": "menu",
+			"importance": "specific"
+		},
+		{
+			"bind": "character 3",
+			"category": "menu",
+			"importance": "specific"
+		},
+		{
+			"bind": "game menu",
+			"category": "technical",
+			"importance": "specific"
+		},
+		{
+			"bind": "console",
+			"category": "technical",
+			"importance": "specific"
+		},
+		{
+			"bind": "fullscreen",
+			"category": "technical",
+			"importance": "specific"
+		},
+		{
+			"bind": "record",
+			"category": "technical",
+			"importance": "specific"
+		},
+		{
+			"bind": "mute recording",
+			"category": "technical",
+			"importance": "specific"
+		},
+		{
+			"bind": "change camera",
+			"category": "render",
+			"importance": "specific"
+		},
+		{
+			"bind": "hide ui",
+			"category": "render",
+			"importance": "specific"
+		},
+		{
+			"bind": "screenshot",
+			"category": "render",
+			"importance": "specific"
+		},
+		{
+			"bind": "show names",
+			"category": "render",
+			"importance": "specific"
+		}
+	]
+}

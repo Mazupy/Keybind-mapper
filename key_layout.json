@@ -1,0 +1,916 @@
+{
+	"keys": [
+		{
+			"key": "esc",
+			"x": 0,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "system"
+		},
+		{
+			"key": "f1",
+			"x": 1.6,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "f2",
+			"x": 2.6,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "f3",
+			"x": 3.6,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "f4",
+			"x": 4.6,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "f5",
+			"x": 6.2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "f6",
+			"x": 7.2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "rebound"
+		},
+		{
+			"key": "f7",
+			"x": 8.2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "f8",
+			"x": 9.2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "f9",
+			"x": 10.8,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "f10",
+			"x": 11.8,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "f11",
+			"x": 12.8,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "f12",
+			"x": 13.8,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "print_screen",
+			"x": 14.9,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "system"
+		},
+		{
+			"key": "scroll_lock",
+			"x": 15.9,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "pause_break",
+			"x": 16.9,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"access": "system_?"
+		},
+		{
+			"key": "`",
+			"x": 0,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "1",
+			"x": 1,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "menu"
+		},
+		{
+			"key": "2",
+			"x": 2,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "menu"
+		},
+		{
+			"key": "3",
+			"x": 3,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "menu"
+		},
+		{
+			"key": "4",
+			"x": 4,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "menu"
+		},
+		{
+			"key": "5",
+			"x": 5,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "accessory"
+		},
+		{
+			"key": "6",
+			"x": 6,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "accessory"
+		},
+		{
+			"key": "7",
+			"x": 7,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "8",
+			"x": 8,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "9",
+			"x": 9,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "0",
+			"x": 10,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "-",
+			"x": 11,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "rebound"
+		},
+		{
+			"key": "=",
+			"x": 12,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "rebound"
+		},
+		{
+			"key": "back",
+			"x": 13,
+			"y": 1.4,
+			"w": 1.8,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "insert",
+			"x": 14.9,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "system_?"
+		},
+		{
+			"key": "home",
+			"x": 15.9,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "page_up",
+			"x": 16.9,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_lock",
+			"x": 18,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_/",
+			"x": 19,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_*",
+			"x": 20,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_-",
+			"x": 21,
+			"y": 1.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "tab",
+			"x": 0,
+			"y": 2.4,
+			"w": 1.5,
+			"h": 1,
+			"access": "menu"
+		},
+		{
+			"key": "q",
+			"x": 1.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "accessory"
+		},
+		{
+			"key": "w",
+			"x": 2.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "quick"
+		},
+		{
+			"key": "e",
+			"x": 3.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "accessory"
+		},
+		{
+			"key": "r",
+			"x": 4.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "quick"
+		},
+		{
+			"key": "t",
+			"x": 5.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "quick"
+		},
+		{
+			"key": "y",
+			"x": 6.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "accessory"
+		},
+		{
+			"key": "u",
+			"x": 7.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "i",
+			"x": 8.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "o",
+			"x": 9.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "p",
+			"x": 10.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "[",
+			"x": 11.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "]",
+			"x": 12.5,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "\\",
+			"x": 13.5,
+			"y": 2.4,
+			"w": 1.3,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "delete",
+			"x": 14.9,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "end",
+			"x": 15.9,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "page_down",
+			"x": 16.9,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_7",
+			"x": 18,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_8",
+			"x": 19,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_9",
+			"x": 20,
+			"y": 2.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_+",
+			"x": 21,
+			"y": 2.4,
+			"w": 1,
+			"h": 2,
+			"access": "inaccessable"
+		},
+		{
+			"key": "caps_lock",
+			"x": 0,
+			"y": 3.4,
+			"w": 1.7,
+			"h": 1,
+			"access": "quick"
+		},
+		{
+			"key": "a",
+			"x": 1.7,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "instant"
+		},
+		{
+			"key": "s",
+			"x": 2.7,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "instant"
+		},
+		{
+			"key": "d",
+			"x": 3.7,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "instant"
+		},
+		{
+			"key": "f",
+			"x": 4.7,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "instant"
+		},
+		{
+			"key": "g",
+			"x": 5.7,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "quick"
+		},
+		{
+			"key": "h",
+			"x": 6.7,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "accessory"
+		},
+		{
+			"key": "j",
+			"x": 7.7,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "k",
+			"x": 8.7,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "l",
+			"x": 9.7,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": ";",
+			"x": 10.7,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "'",
+			"x": 11.7,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "enter",
+			"x": 12.7,
+			"y": 3.4,
+			"w": 2.1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_4",
+			"x": 18,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_5",
+			"x": 19,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_6",
+			"x": 20,
+			"y": 3.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "left_shift",
+			"x": 0,
+			"y": 4.4,
+			"w": 2.2,
+			"h": 1,
+			"access": "quick"
+		},
+		{
+			"key": "z",
+			"x": 2.2,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "quick"
+		},
+		{
+			"key": "x",
+			"x": 3.2,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "accessory"
+		},
+		{
+			"key": "c",
+			"x": 4.2,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "quick"
+		},
+		{
+			"key": "v",
+			"x": 5.2,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "quick"
+		},
+		{
+			"key": "b",
+			"x": 6.2,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "accessory"
+		},
+		{
+			"key": "n",
+			"x": 7.2,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "menu"
+		},
+		{
+			"key": "m",
+			"x": 8.2,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": ",",
+			"x": 9.2,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "rebound"
+		},
+		{
+			"key": ".",
+			"x": 10.2,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "rebound"
+		},
+		{
+			"key": "/",
+			"x": 11.2,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "right_shift",
+			"x": 12.2,
+			"y": 4.4,
+			"w": 2.6,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "arrow_up",
+			"x": 15.9,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_1",
+			"x": 18,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_2",
+			"x": 19,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_3",
+			"x": 20,
+			"y": 4.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_enter",
+			"x": 21,
+			"y": 4.4,
+			"w": 1,
+			"h": 2,
+			"access": "inaccessable"
+		},
+		{
+			"key": "left_ctrl",
+			"x": 0,
+			"y": 5.4,
+			"w": 1.5,
+			"h": 1,
+			"access": "accessory"
+		},
+		{
+			"key": "left_os",
+			"x": 1.5,
+			"y": 5.4,
+			"w": 1,
+			"h": 1,
+			"access": "system"
+		},
+		{
+			"key": "left_alt",
+			"x": 2.5,
+			"y": 5.4,
+			"w": 1.2,
+			"h": 1,
+			"access": "quick"
+		},
+		{
+			"key": "space",
+			"x": 3.7,
+			"y": 5.4,
+			"w": 6.5,
+			"h": 1,
+			"access": "instant"
+		},
+		{
+			"key": "right_alt",
+			"x": 10.2,
+			"y": 5.4,
+			"w": 1.2,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "right_os",
+			"x": 11.4,
+			"y": 5.4,
+			"w": 1,
+			"h": 1,
+			"access": "system"
+		},
+		{
+			"key": "menu",
+			"x": 12.4,
+			"y": 5.4,
+			"w": 1,
+			"h": 1,
+			"access": "system_?"
+		},
+		{
+			"key": "right_ctrl",
+			"x": 13.4,
+			"y": 5.4,
+			"w": 1.4,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "arrow_left",
+			"x": 14.9,
+			"y": 5.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "arrow_down",
+			"x": 15.9,
+			"y": 5.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "arrow_right",
+			"x": 16.9,
+			"y": 5.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_0",
+			"x": 18,
+			"y": 5.4,
+			"w": 2,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "num_.",
+			"x": 20,
+			"y": 5.4,
+			"w": 1,
+			"h": 1,
+			"access": "inaccessable"
+		},
+		{
+			"key": "mouse_left",
+			"x": 2,
+			"y": 8,
+			"w": 3,
+			"h": 1.5,
+			"access": "instant"
+		},
+		{
+			"key": "mouse_scroll_up",
+			"x": 3.5,
+			"y": 9.5,
+			"w": 1.5,
+			"h": 1,
+			"access": "accessory"
+		},
+		{
+			"key": "mouse_middle",
+			"x": 1.5,
+			"y": 9.5,
+			"w": 2,
+			"h": 1,
+			"access": "quick"
+		},
+		{
+			"key": "mouse_scroll_down",
+			"x": 0,
+			"y": 9.5,
+			"w": 1.5,
+			"h": 1,
+			"access": "accessory"
+		},
+		{
+			"key": "mouse_right",
+			"x": 2,
+			"y": 10.5,
+			"w": 3,
+			"h": 1.5,
+			"access": "instant"
+		},
+		{
+			"key": "mouse_4",
+			"x": 0,
+			"y": 8,
+			"w": 2,
+			"h": 1.5,
+			"access": "instant"
+		},
+		{
+			"key": "mouse_5",
+			"x": 0,
+			"y": 10.5,
+			"w": 2,
+			"h": 1.5,
+			"access": "quick"
+		},
+		{
+			"key": "pedal_1",
+			"x": 6.4,
+			"y": 8,
+			"w": 1.5,
+			"h": 2,
+			"access": "instant"
+		},
+		{
+			"key": "pedal_2",
+			"x": 7.9,
+			"y": 8,
+			"w": 1.5,
+			"h": 2,
+			"access": "quick"
+		},
+		{
+			"key": "pedal_3",
+			"x": 9.4,
+			"y": 8,
+			"w": 1.5,
+			"h": 2,
+			"access": "instant"
+		}
+	]
+}
